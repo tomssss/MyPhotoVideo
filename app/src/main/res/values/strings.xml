@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPhotoVideo</string>
+    <string name="preparing_content">Preparing content&#8230;</string>
+    <string name="workJobName_text">Working&#8230;</string>
+    <string name="contentGenerationFailedTitle">Unable to generate content</string>
+    <string name="contentGenerationFailedMsg">Failed to generate content.  Some          features may be unavailable.\\n\\n%1$s</string>
+    <string name="ok">OK</string>
+</resources>
